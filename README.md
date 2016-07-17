@@ -1,6 +1,6 @@
 # SVM
 
-This is a sample implementation for using svn-multiclass by cornell for image classification based on the test images.
+This is a sample implementation for using svm-multiclass by cornell for image classification based on the test images.
 https://www.cs.cornell.edu/people/tj/svm_light/svm_multiclass.html
 
 # Usage
