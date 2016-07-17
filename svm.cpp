@@ -1,3 +1,10 @@
+/** This project was done as part of computer vision coursework under prof. David crandall
+ * svm_multiclass by cornell is used for image classification 
+ * https://www.cs.cornell.edu/people/tj/svm_light/svm_multiclass.html
+ **/
+
+
+
 #include "CImg.h"
 #include <ctime>
 #include <iostream>
